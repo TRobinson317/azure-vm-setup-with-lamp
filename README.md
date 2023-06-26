@@ -18,7 +18,7 @@ This bash script automates the process of setting up a Virtual Machine (VM) on M
     ```
 3. Run the script.
     ```bash
-    bash azure_vm_setup.sh
+    bash azure-vm-setup-with-lamp.sh
     ```
 
 ## 📜 User Interface
